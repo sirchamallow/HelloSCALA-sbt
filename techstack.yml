@@ -1,0 +1,31 @@
+repo_name: sirchamallow/HelloSCALA-sbt
+report_id: 3e0f7d312c48ccb9ebb7699c50e2fee9
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-29T14:41:50+00:00'
+requested_by: sirchamallow
+provider: github
+branch: main
+detected_tools_count: 2
+tools:
+- name: Scala
+  description: A pure-bred object-oriented language that runs on the JVM
+  website_url: http://www.scala-lang.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1012/scala.png
+  detection_source_url: https://github.com/sirchamallow/HelloSCALA-sbt
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/sirchamallow/HelloSCALA-sbt
+  detection_source: Repo Metadata
